@@ -22,9 +22,9 @@ if __name__ == '__main__':
 
     if sign == '+':
         print('{} {} {} = {}'.format(a, sign, b, add(a, b)))
-    if sign == '+':
-        print('{} {} {} = {}'.format(a, sign, b, add(a, b)))
-    if sign == '+':
-        print('{} {} {} = {}'.format(a, sign, b, add(a, b)))
-    if sign == '+':
-        print('{} {} {} = {}'.format(a, sign, b, add(a, b)))
+    if sign == '*':
+        print('{} {} {} = {}'.format(a, sign, b, mul(a, b)))
+    if sign == '/':
+        print('{} {} {} = {}'.format(a, sign, b, div(a, b)))
+    if sign == '-':
+        print('{} {} {} = {}'.format(a, sign, b, sub(a, b)))
