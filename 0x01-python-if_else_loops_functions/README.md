@@ -18,3 +18,4 @@
 | 11  | A function that computes a to the power of b and return the value                                          | 11-pow.py                   |
 | 12  | A function that prints the numbers from 1 to 100 separated by a space                                      | 12-fizzbuzz.py              |
 | 13  | Insert in sorted linked list                                                                               | 13-insert_number.c, lists.h |
+| 14  | A program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase            | 100-print_tebahpla.py       |
