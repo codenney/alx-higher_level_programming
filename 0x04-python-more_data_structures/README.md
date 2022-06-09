@@ -12,5 +12,8 @@
 | 5   | A function that returns the number of keys in a dictionary                      | 5-number_keys.py             |
 | 6   | A function that prints a dictionary by ordered keys                             | 6-print_sorted_dictionary.py |
 | 7   | A function that replaces or adds key/value in a dictionary                      | 7-update_dictionary.py       |
-|     |                                                                                 |                              |
-|     |                                                                                 |                              |
+| 8   | A function that deletes a key in a dictionary                                   | 8-simple_delete.py           |
+| 9   | A function that returns a new dictionary with all values multiplied by 2        | 9-multiply_by_2.py           |
+| 10  | A function that returns a key with the biggest integer value                    | 10-best_score.py             |
+| 13  | A function that returns the weighted average of all integers tuple              | 100-weight_average.py        |
+| 15  | A function that deletes keys with a specific value in a dictionary              | 102-complex_delete.py        |
