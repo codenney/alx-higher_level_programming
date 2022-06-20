@@ -20,5 +20,6 @@
 | - [x] | A function that divides element by element 2 lists                      | 4-list_division.py            |
 | - [x] | A function that raises a type exception                                 | 5-raise_exception.py          |
 | - [x] | A function that raises a name exception with a message                  | 6-raise_exception_msg.py      |
+| - [x] | A function that prints an integer                                       | 100-safe_print_integer_err.py |
 
 :sparkles:
