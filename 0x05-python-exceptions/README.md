@@ -13,7 +13,7 @@
 
 | s/n     | Description                                                                     | name                          |
 | ------- | ------------------------------------------------------------------------------- | ----------------------------- |
-| - [x] - | A function that computes the square value of all integers of a matrix           | 0-safe_print_list.py          |
+| - [x] p | A function that computes the square value of all integers of a matrix           | 0-safe_print_list.py          |
 | - [x]   | A function that replaces all occurrences of an element by another in a new list | 1-safe_print_integer.py       |
 | - []    | A function that adds all unique integers in a list (only once for each integer) | 2-safe_print_list_integers.py |
 | - []    | A function that returns a set of common elements in two sets                    | 3-safe_print_division.py      |
