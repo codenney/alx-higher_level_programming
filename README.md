@@ -8,3 +8,4 @@ _WAGMI_
 3. 0x03. Python - Data Structures: Lists, Tuples
 4. 0x04. Python - More Data Structures: Set, Dictionary
 5. 0x05. Python - Exceptions
+6. 0x06. Python - Classes and Objects
