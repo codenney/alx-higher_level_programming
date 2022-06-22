@@ -25,14 +25,14 @@
 - [x] How does Python find the attributes of an object or class
 - [x] How to use the getattr function
 
-| s/n | Description                                                             | name        |
-| --- | ----------------------------------------------------------------------- | ----------- |
-| 0   | An empty class Square that defines a square                             | 0-square.py |
-| 1   | A function that prints an integer with "{:d}".format()                  | 1-square.py |
-| 2   | A function that prints the first x elements of a list and only integers | 2-square.py |
-| 3   | A function that divides 2 integers and prints the result                | 3-square.py |
-| 4   | A function that divides element by element 2 lists                      | 4-square.py |
-| 5   | A function that raises a type exception                                 | 5-square.py |
-| 6   | A function that raises a name exception with a message                  | 6-square.py |
+| s/n | Description                                                     | name        |
+| --- | --------------------------------------------------------------- | ----------- |
+| 0   | An empty class Square that defines a square                     | 0-square.py |
+| 1   | A class Square that defines a square by: (based on 0-square.py) | 1-square.py |
+| 2   | A class Square that defines a square by: (based on 1-square.py) | 2-square.py |
+| 3   | A class Square that defines a square by: (based on 2-square.py) | 3-square.py |
+| 4   | A class Square that defines a square by: (based on 3-square.py) | 4-square.py |
+| 5   | A class Square that defines a square by: (based on 4-square.py) | 5-square.py |
+| 6   | A class Square that defines a square by: (based on 4-square.py) | 6-square.py |
 
 :sparkles:
