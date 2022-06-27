@@ -7,14 +7,27 @@ Write a class Square that defines a square by: (based on 5-square.py)
 class Square:
     """The blueprint for all instances"""
 
-    def __init__(self, size=0):
+    def __init__(self, size=0, position=(0, 0)):
         """Checking for the type of value entered"""
-
-        if (type(size) != int):
-            raise TypeError("size must be an integer")
-        elif (size < 0):
-            raise ValueError("size must be >= 0")
         self.__size = size
+        self.__position = position
+
+    @property
+    def position(self):
+        """return the value of position"""
+
+        return self.__position
+
+    @position.setter
+    def position(self, value):
+        if(len(value) != 2 or type(value) != tuple):
+            raise TypeError("position must be a tuple of 2 positive integers")
+        if(type(value[0]) != int or value[0] < 0):
+            raise TypeError("position must be a tuple of 2 positive integers")
+        if(type(value[1]) != int or value[0] < 0):
+            raise TypeError("position must be a tuple of 2 positive integers")
+        self.__position = value
+
 
     @property
     def size(self):
@@ -41,10 +54,10 @@ class Square:
         if(self.size == 0):
             print()
         else:
-            for i in range(self.size):
-                for num in range(self.size):
-                    print("#", end="")
-                print()
+            print('\n' * self.__position[1], end="")
+            for i in range(self.__size):
+                print(' ' * self.__position[0], end="")
+                print('#' * self.__size)
 
 
 """
