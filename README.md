@@ -9,4 +9,5 @@ _WAGMI_
 4. 0x04. Python - More Data Structures: Set, Dictionary
 5. 0x05. Python - Exceptions
 6. 0x06. Python - Classes and Objects
-7. 0x08. Python - More Classes and Objects
+7. 0x07. Python - Test-driven development
+8. 0x08. Python - More Classes and Objects
