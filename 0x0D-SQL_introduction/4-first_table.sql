@@ -1,3 +1,4 @@
--- Script that prints the full description of the table first_table from
--- the database hbtn_0c_0
-SHOW CREATE TABLE first_table;
+-- Creates a table called first_table in the current database in my MySQL server
+CREATE TABLE IF NOT EXISTS first_table (
+       id INT,
+       name VARCHAR(256));
