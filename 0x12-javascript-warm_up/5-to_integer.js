@@ -3,4 +3,4 @@
 
 const convertNum = parseInt(process.argv[2]);
 if (convertNum) console.log(`My number: ${convertNum}`);
-else console.log(`Not a number`);
+else console.log('Not a number');
