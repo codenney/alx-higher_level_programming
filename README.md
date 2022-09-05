@@ -11,3 +11,5 @@ _WAGMI_
 6. 0x06. Python - Classes and Objects
 7. 0x07. Python - Test-driven development
 8. 0x08. Python - More Classes and Objects
+9. 0x0D. SQL - Introduction
+10. 0x12. JavaScript - Warm up
