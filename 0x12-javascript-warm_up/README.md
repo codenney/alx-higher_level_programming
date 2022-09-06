@@ -18,5 +18,9 @@
 | 11  | A script that searches the second biggest integer in the list of arguments | 11-second_biggest.js       |
 | 12  | A script to replace the value 12 with 89                                   | 12-object.js               |
 | 13  | A function that returns the addition of 2 integers                         | 13-add.js                  |
+| 100 | A file that modifies the value of myVar to 333                             | 100-let_me_const.js        |
+| 101 | A function that executes x times a function                                | 101-call_me_moby.js        |
+| 102 | A function that increments and calls a function                            | 102-add_me_maybe.js        |
+| 103 | Adding a new function incr that increments the integer value               | 103-object_fct.js          |
 
 :sparkles:
