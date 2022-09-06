@@ -1,9 +1,9 @@
 #!/usr/bin/node
 // A script that prints the addition of 2 integers
 
-const arg = process.argv;
+const a = parseInt(process.argv[2]);
+const b = parseInt(process.argv[3]);
 function add(a, b) {
   return a + b;
 }
-
-console.log(add(parseInt(arg[2]), parseInt(arg[3])));
+console.log(add(a, b));
