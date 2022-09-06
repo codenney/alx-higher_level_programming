@@ -1,14 +1,14 @@
 #!/usr/bin/node
 
-// A script that computes and prints a factorial
+// Computes and prints a factorial
 
 const num = parseInt(process.argv[2]);
 
-const factor = (n) => {
-  if (isNaN(n) || n <= 1) {
+function factorial (num) {
+  if (isNaN(num) || num === 1) {
     return 1;
   } else {
-    return (n * factor(n - 1));
+    return (num * factorial(num - 1));
   }
-};
-console.log(factor(num));
+}
+console.log(factorial(num));
