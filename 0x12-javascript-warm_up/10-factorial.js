@@ -7,7 +7,7 @@ const factor = (n) => {
   if (isNaN(n) || n <= 1) {
     return 1;
   } else {
-    return n * factor(n - 1);
+    return (n * factor(n - 1));
   }
 };
 console.log(factor(num));
