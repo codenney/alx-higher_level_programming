@@ -5,5 +5,5 @@ def uppercase(str):
         if char >= 'a' and char <= 'z':
             new_str += "{:c}".format(ord(char) - 32)
         else:
-            new_str += char
+            new_str += "{}".format(char)
     print(new_str)
