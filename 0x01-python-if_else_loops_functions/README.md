@@ -19,3 +19,5 @@
 | 12  | A function that prints the numbers from 1 to 100 separated by a space                                      | 12-fizzbuzz.py              |
 | 13  | Insert in sorted linked list                                                                               | 13-insert_number.c, lists.h |
 | 14  | A program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase            | 100-print_tebahpla.py       |
+|15|A function that creates a copy of the string, removing the character at the position n|101-remove_char_at.py|
+|16|A Python function that does exactly the same as a Python bytecode|102-magic_calculation.py|
