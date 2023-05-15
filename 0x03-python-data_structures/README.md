@@ -1,10 +1,6 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 
-<h2>1. 0-print_list_integer.py</h2>
-- A function that prints all integers of a list
-# 0x01. Python - if/else, loops, functions
-
-## How do people read syntax easily???
+### Without structure, what is data?
 
 | s/n | Description                                                                                                | name                        |
 | --- | ---------------------------------------------------------------------------------------------------------- | --------------------------- |
