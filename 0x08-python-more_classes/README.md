@@ -4,8 +4,39 @@
 
 - Write an empty class Rectangle that defines a rectangle
 
-### 2-matrix_divided.py, tests/2-matrix_divided.txt
+### 1-rectangle.py
 
-- A function that divides all elements of a matrix
+- Write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+
+### 2-rectangle.py
+
+- Write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
+
+### 3-rectangle.py
+
+- print() and str() should print the rectangle with the character #
+
+### 4-rectangle.py
+
+- repr() should return a string representation of the rectangle to be able to recreate a new instance by using eval()
 
 
+### 5-rectangle.py
+
+- Print the message Bye rectangle...
+
+### 6-rectangle.py
+
+- Increment and decrement during each new instance instantiation and deletion
+
+### 7-rectangle.py
+
+- Create a public class attribute print_symbol = '#'
+
+### 8-rectangle.py
+
+- Static method that returns the biggest rectangle based on the area
+
+### 9-rectangle.py
+
+- Class method that returns a new Rectangle instance with width == height == size
